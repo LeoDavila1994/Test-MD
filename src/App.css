@@ -112,6 +112,12 @@ button:hover{
   background-color: var(--yellow-detail);
 }
 
+.card--area{
+  width: 95%;
+  margin: auto;
+  overflow: hidden;
+}
+
 .card--container {
   max-height: 290px;
   display: flex;
