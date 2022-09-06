@@ -113,7 +113,7 @@ button:hover{
 }
 
 .card--area{
-  width: 95%;
+  width: 100%;
   margin: auto;
   overflow: hidden;
 }
@@ -260,6 +260,12 @@ button:hover{
     flex-direction: row;
     justify-content: space-between;
     margin: auto;
+  }
+
+  .card--area{
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
   }
 
   .btn--separators--container{
